@@ -31,4 +31,4 @@ steps:
     inputs:
       targetPath: $(Build.ArtifactStagingDirectory) # dist or build folders
       artifactName: "www" # output artifact named www
-    displayName: "Publish npm artifact"
+    displayName: "Publish React npm artifact"
