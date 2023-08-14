@@ -1,6 +1,6 @@
 # Azure DevOps for Jira testing app
 
-A React app used to test Azure DevOps integrations with Jira.
+A React app used to test Azure DevOps integrations in Jira.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
