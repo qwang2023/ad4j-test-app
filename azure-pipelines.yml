@@ -5,6 +5,7 @@
 
 trigger:
   - main
+  - FW202310-2-test-build
   - issue/*
 
 pool:
