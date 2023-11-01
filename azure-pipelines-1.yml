@@ -4,7 +4,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
 
 trigger:
-- FW202310-1-rlss-4642
+- main
 
 pool:
   vmImage: ubuntu-latest
